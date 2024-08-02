@@ -54,6 +54,7 @@ smartstore.naver.com_han_market (2).png
 smartstore.naver.com_han_market.png
 smartstore.naver.com_han_market_products_5792693870.png
 VSCodeUserSetup-x64-1.91.1.exe
+WhaleSetup.exe
 www.100yearshop.co.kr_shop_goods_goods_list.php_&category=015.png
 www.batt-corp.com_products.png
 www.cyso.co.kr_shop_item.php_it_id=1607317883.png
